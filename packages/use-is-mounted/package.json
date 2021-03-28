@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "Jacano <641283231@qq.com>",
   "homepage": "https://github.com/Jcanno/alight#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "types": "./lib/index.d.ts",
@@ -37,5 +37,6 @@
   },
   "peerDependencies": {
     "react": "^16.8.0"
-  }
+  },
+  "gitHead": "6e160a11d44d72f585c153100b4e550d6a1031d8"
 }
