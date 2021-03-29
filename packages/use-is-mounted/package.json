@@ -1,7 +1,7 @@
 {
-  "name": "@alight/use-is-mounted",
-  "version": "0.1.1",
-  "description": "> TODO: description",
+  "name": "@hreact/use-is-mounted",
+  "version": "0.0.0",
+  "description": "hooks for react",
   "author": "Jacano <641283231@qq.com>",
   "homepage": "https://github.com/Jcanno/alight#readme",
   "license": "MIT",
@@ -37,6 +37,5 @@
   },
   "peerDependencies": {
     "react": "^16.8.0"
-  },
-  "gitHead": "84d8ab27a61b7bc832ec47c43f6e54925bfb848c"
+  }
 }
