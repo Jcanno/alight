@@ -2,6 +2,6 @@
 
 const useIsMounted = require('..');
 
-describe('@alight/use-is-mounted', () => {
+describe('@hreact/use-is-mounted', () => {
     it('needs tests');
 });

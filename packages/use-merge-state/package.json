@@ -1,5 +1,5 @@
 {
-  "name": "@hreact/use-is-mounted",
+  "name": "@hreact/use-merge-state",
   "version": "1.1.0",
   "description": "hooks for react",
   "author": "Jacano <641283231@qq.com>",

@@ -1,11 +1,11 @@
-# `@alight/use-is-mounted`
+# `@hreact/use-is-mounted`
 
 > TODO: description
 
 ## Usage
 
 ```
-const useIsMounted = require('@alight/use-is-mounted');
+const useIsMounted = require('@hreact/use-is-mounted');
 
 // TODO: DEMONSTRATE API
 ```
