@@ -1,0 +1,41 @@
+{
+  "name": "@hreact/use-force-update",
+  "version": "0.0.0",
+  "description": "hooks for react",
+  "author": "Jacano <641283231@qq.com>",
+  "homepage": "https://github.com/Jcanno/hreact#readme",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "module": "./es/index.js",
+  "types": "./lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "package.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcanno/hreact.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "gulp && webpack-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/Jcanno/hreact/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
+  }
+}
